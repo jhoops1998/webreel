@@ -1,3 +1,8 @@
+### snowpack ###
+.snowpack
+build
+node_modules
+
 ### react ###
 .DS_*
 *.log
@@ -21,5 +26,3 @@ sketch
 !.vscode/launch.json
 !.vscode/extensions.json
 *.code-workspace
-
-package-lock.json
