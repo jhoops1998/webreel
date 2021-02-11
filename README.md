@@ -1,4 +1,4 @@
-# Set up envirment
+# Set up environment
 
 First make sure that you have node.js installed
 (Look up how to do this for your operating system)
